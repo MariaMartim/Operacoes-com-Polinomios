@@ -3,8 +3,6 @@
 
 using namespace std;
 
-//n ta mostrando nada qnd o resultado é 0
-
 struct Monomio{
     int coeficiente;
     int expoente;
