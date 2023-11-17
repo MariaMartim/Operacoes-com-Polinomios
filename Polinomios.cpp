@@ -4,25 +4,6 @@
 using namespace std;
 
 //Aluna Maria Eduarda Alves Martim
-/*
-
-Polinômio é uma expressão algébrica de soma de monômios. 
-Um monômio é uma expressão algébrica que pode ser representada por um número real multiplicado por uma ou mais variáveis
-elevadas a expoentes inteiros não negativos.
-
-- A primeira opção do código é a soma, onde são lido dois polimônios e somamos aqueles que tem o expoente igual.
-- A segunda opção é a subtração, que acontece o mesmo processo da soma, mas multiplicamos o segundo polinômio por -1
-e somamos com a mesma função utilizada anteriormente.
-- A terceira opção é o valor numérico, onde o usuário digita um valor para a variável x e o programa lê o polinômio
-e substitui aqueles que tiverem x pelo valor digitado.
-- A quarta opção é a multiplicação por escalar, onde o usuário digita um valor para o escalar e o programa lê o polinômio
-e multiplica todos os monomios do polinomio pela constante.
-- A quinta opção é a multiplicação termo a termo, onde o programa lê dois polinômios e multiplica todos os monomios do primeiro
-com todos os monomios do segundo
-- A sexta e última opção é a multiplicação de polinômio por monomio, onde o programa lê um polinômio e um monômio 
-e multiplica todos os monômios do polinômio pelo monômio digitado pelo usuário
-
-*/
 
 struct Monomio{
     int coeficiente;
